@@ -13,7 +13,7 @@ public class DemoController {
 	public ModelAndView index()
 	{
 		ModelAndView mav=new ModelAndView();
-		
+		syso dczxcdc
 		
 		mav.addObject("msg","welcome to spring Boot!!!!!");
 		
