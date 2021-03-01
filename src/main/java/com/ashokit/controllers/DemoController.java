@@ -15,7 +15,7 @@ public class DemoController {
 		ModelAndView mav=new ModelAndView();
 		syso dczxcdc
 		
-		mav.addObject("msg","welcome to spring Boot!!!!!");
+		mav.addObject("msg","welcome to spring Boot programming!!!!!");
 		
 		mav.setViewName("index");
 		return mav;
